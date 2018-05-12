@@ -1,0 +1,35 @@
+_repo: Richard-Wagner_34382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Champfleury
+    aliases:
+    - Fleury, Jules
+    - Husson-Fleury, Jules-François-Félix
+    - Champfleury, Jules
+    - Husson-Fleury, Jules-Francois-Felix
+    - Husson, Jules
+    birthdate: 1821
+    deathdate: 1889
+    gutenberg_agent_id: '36988'
+    url: http://www.gutenberg.org/2009/agents/36988
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_Champfleury
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34382'
+  lccn: unk84169305
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883'
+title: Richard Wagner
+url: http://www.gutenberg.org/ebooks/34382
