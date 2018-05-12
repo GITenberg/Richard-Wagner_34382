@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36988
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Champfleury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34382#Richard-Wagner
 gutenberg_bookshelf: FR Musique
 gutenberg_issued: '2010-11-20'
 gutenberg_type: Text
